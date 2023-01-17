@@ -14,10 +14,8 @@
 
   ###This outcomes showed no relationship with the amount of successful, Failed and Canceled
   
-![image 1](https://github.com/Jeantherapy/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
-  
   ###We also reviewed the outcomes based on goals and based on the chart, you would see a relationship
-![image 2](https://github.com/Jeantherapy/kickstarter-analysis/blob/main/Resources/Outcomes_%20vs_Goals.png)
+![image 2](https://github.com/Jeantherapy/VBA_Challenge/blob/main/VBA_Challenge_2018.png)
 
 **Results
 
