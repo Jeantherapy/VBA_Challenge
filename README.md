@@ -8,7 +8,7 @@
 
   ###In this project, we reviewed the run time for All Stocks Analysis for the year 2017 and 2018, see images below.
   
-   ![image 1](https://github.com/Jeantherapy/VBA_Challenge/upload/main#:~:text=VBA_Challenge%2D2017.png)
+   ![image 1](https://github.com/Jeantherapy/VBA_Challenge/blob/main/VBA_Challenge-2017.png)
   
    ###Some of the challenges encountered during this analysis inlcudes ensuring the row labels are changed to display the months of the year, and the       campaign outcomes are sorted in descending order, i had some diffculty createing the line chart is created and ensuring i show the number of successful,  failed, canceled projects by month and the title.
 
