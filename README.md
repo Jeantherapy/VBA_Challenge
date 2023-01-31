@@ -10,7 +10,7 @@
   
    ![image 1](https://github.com/Jeantherapy/VBA_Challenge/blob/main/VBA_Challenge-2017.png)
   
-   ###Based on the image above the refactoring process took a long time. this meant that it took a long time to srrive on answers of the 2017 stock analysis.
+   ###Based on the image above the refactoring process took a long time. this meant that it took a longer time to arrive at the answer for the 2017 stock analysis.
 
   ###This outcomes showed no relationship with the amount of successful, Failed and Canceled
   
