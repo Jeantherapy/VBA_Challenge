@@ -10,19 +10,15 @@
   
    ![image 1](https://github.com/Jeantherapy/VBA_Challenge/blob/main/VBA_Challenge-2017.png)
   
-   ###Based on the image above the refactoting process took a long time. this meant that it took a long time to srrive on answers of the 2017 stock analysis.
+   ###Based on the image above the refactoring process took a long time. this meant that it took a long time to srrive on answers of the 2017 stock analysis.
 
   ###This outcomes showed no relationship with the amount of successful, Failed and Canceled
   
-  ###We also reviewed the outcomes based on goals and based on the chart, you would see a relationship
+  ###The image below showed the refactoring worked because the amount of time it took was significantly less.
 ![image 2](https://github.com/Jeantherapy/VBA_Challenge/blob/main/VBA_Challenge_2018.png)
 
-**Results
+**Summary
 
-##What are two conclusions you can draw about the Theater Outcomes by Launch Date? based on the chart, i do not believe there is a relationship, each outcome was significantly didfferent.
+##What are the advantages or disadvantages of refactoring code? As a beginner refactoring helps you understand the other methods of running a code to achieve the same result and also perform the task quicker.
 
-##What can you conclude about the Outcomes based on Goals? Based on the chart, there seem to be a level of relationship.
-
-##What are some limitations of this dataset? The criteria could have been different and the ranges was to broad.
-
-##What are some other possible tables and/or graphs that we could create? percentage canceled added no value to the data needed, this should have been skipped. The chart did use the specific data criteria during the chart trend.
+##How do these pros and cons apply to refactoring the original VBA script? The pros of applying refactoring to the original VBA script is that it took less time to run.
